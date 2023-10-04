@@ -1,0 +1,3 @@
+{"source_filename": "json.wat",
+ "commands": [
+  {"type": "module", "line": 1, "filename": "json.0.wasm"}]}
